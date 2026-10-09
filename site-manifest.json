@@ -1,0 +1,1151 @@
+{
+  "archive_sha256": "33771964a8f8260a1bb2f299242be3de8ff03cec9488b890fed2a5a5767bfc57",
+  "parts": [
+    {
+      "name": "site.zip.part00",
+      "bytes": 8388608,
+      "sha256": "1c54be1b71400418158f59f1d3f6fa79c267fff0a092559cadc1c7e325428e42"
+    },
+    {
+      "name": "site.zip.part01",
+      "bytes": 8388608,
+      "sha256": "18eda8bd5a817cad98cb511eb6d9998a89bbc5c425c2231cc0215b2685c64408"
+    },
+    {
+      "name": "site.zip.part02",
+      "bytes": 8388608,
+      "sha256": "5f5afefa9bcc408aacb621c7ef999a732d4fd2b3a1ebb83fb0476ed2998a274a"
+    },
+    {
+      "name": "site.zip.part03",
+      "bytes": 8388608,
+      "sha256": "312c0de4700e05f03ef0115eb5ce65f9556b02bfd1ac70afb5180a0bf1769747"
+    },
+    {
+      "name": "site.zip.part04",
+      "bytes": 8388608,
+      "sha256": "71632f79807350be35e0469cc15972473e4d32a56b737d26c9a7a6bf68964a96"
+    },
+    {
+      "name": "site.zip.part05",
+      "bytes": 8388608,
+      "sha256": "6907eda4cf83e7abfd1cd2b2061944b65c4a914c99d4f7c2d7cb8d04299dfbc6"
+    },
+    {
+      "name": "site.zip.part06",
+      "bytes": 8388608,
+      "sha256": "03bb8b535412ab40d3ea4430c820456c466cb82a60d67cd728c3aeac55024c58"
+    },
+    {
+      "name": "site.zip.part07",
+      "bytes": 8388608,
+      "sha256": "64ae83375ab028c47a1015fecac5327a0cb153221500236aec0357f8cb7c4e0e"
+    },
+    {
+      "name": "site.zip.part08",
+      "bytes": 8388608,
+      "sha256": "7921b280e02c6d9765c893481c82d3a0bdfc81c15fe0a709109b1c8da868f680"
+    },
+    {
+      "name": "site.zip.part09",
+      "bytes": 8388608,
+      "sha256": "d7493c60cf5d0454f6443aad00a7d66e899fc6d75438097ef9b694977ba403e5"
+    },
+    {
+      "name": "site.zip.part10",
+      "bytes": 8388608,
+      "sha256": "da6175e86bf7a2b4dcb9299e6b806e717fc6c51fda089489b3ea515b90dbdeb7"
+    },
+    {
+      "name": "site.zip.part11",
+      "bytes": 8388608,
+      "sha256": "3442d1b2f17c480e7a098cbf0ddf2d42efe48afdffa8bdc6c51224e59811f86b"
+    },
+    {
+      "name": "site.zip.part12",
+      "bytes": 8388608,
+      "sha256": "9669511a20974f541c8855b946f047a3f5bb01a1853b66c4b7d59ced49a06366"
+    },
+    {
+      "name": "site.zip.part13",
+      "bytes": 8388608,
+      "sha256": "6f6e92f133cb6df0ca4514e38c9bbff909c44f672cda35ac65660e79a2ca3267"
+    },
+    {
+      "name": "site.zip.part14",
+      "bytes": 8388608,
+      "sha256": "c85815599c6f3d4fcecaa356bf8a642ab3c4b98b9f87cf867d84679d50ec74f7"
+    },
+    {
+      "name": "site.zip.part15",
+      "bytes": 8388608,
+      "sha256": "75eae4de3a1ba11b2a4b13aaa0a860cf7b464a28193ce5360d53369b7522f74c"
+    },
+    {
+      "name": "site.zip.part16",
+      "bytes": 8388608,
+      "sha256": "ee0dbf6a9af43416b76f0b4a5858c5178406322486bc37cbfb66340d6c93e0b2"
+    },
+    {
+      "name": "site.zip.part17",
+      "bytes": 8388608,
+      "sha256": "4a0a123dd23b23471bc55b37ec90e5ba8d8ab41ebd6d457c386d0a9534379d65"
+    },
+    {
+      "name": "site.zip.part18",
+      "bytes": 8388608,
+      "sha256": "36bbdda0345a1dcbfee120785cd14f02926a6d938adcf32d095aea91334a65a8"
+    },
+    {
+      "name": "site.zip.part19",
+      "bytes": 2290701,
+      "sha256": "d2153ed84e6ba4f6b748eaa38b7f7ec88ea35e5364bdac5b101e74653c6d8eb9"
+    }
+  ],
+  "files": [
+    {
+      "path": "favicon.svg",
+      "sha256": "81049b293b44c48702971ba1f60d6bb443bb309a5eb9d1bf3bdc0a028697d5c4"
+    },
+    {
+      "path": "index.html",
+      "sha256": "e59ac791247245356dfbaf8ebf817db680396b4a6531759da832434306ffc3a9"
+    },
+    {
+      "path": "区域资产/bathroom.html",
+      "sha256": "ae563cc1ed241637faf5212a276cd1f07b59fa512cb89a840da2b1de8889a409"
+    },
+    {
+      "path": "区域资产/exterior.html",
+      "sha256": "85d2417131c46eab1b0d30e228a8c86902114aadbdcb51b81249bcf1f8e120dc"
+    },
+    {
+      "path": "区域资产/pool.html",
+      "sha256": "5ce0f7d5cc27802cb9bc61c4e11f21f81e4ef86d70497f8883b288e8807b89d7"
+    },
+    {
+      "path": "区域资产/room.html",
+      "sha256": "409e825ee2f5ca55e746fd0a56cb2f493e6e940c7b7ceed4e3b62cf62edfff63"
+    },
+    {
+      "path": "打开作品.html",
+      "sha256": "e59ac791247245356dfbaf8ebf817db680396b4a6531759da832434306ffc3a9"
+    },
+    {
+      "path": "资料/署名与资产说明.html",
+      "sha256": "2e7c2c77dbe87fa9da27eec160cd58c882558d578890b3381557a81524f17de3"
+    },
+    {
+      "path": "资源/app.js",
+      "sha256": "0fe81e4e3eed9854e193d27af78e62e80369e735a7b2e55cd641ae2c22a4c49e"
+    },
+    {
+      "path": "资源/assets.css",
+      "sha256": "5a4764ce5f9edc578a1a227f94d88386301773cd4c010486dd5f2e82a40bed49"
+    },
+    {
+      "path": "资源/assets.js",
+      "sha256": "8a05e8bf751ec92c13ed2adc7f045fcdbdbfdcf70c866b4c578aed20be62a21c"
+    },
+    {
+      "path": "资源/interactions/blinds-trimmed.mp4",
+      "sha256": "a65fc7c0ec0cd965f2b5d4d7e5916bcd0c337db65a1ee39cbd2847450f0ea87f"
+    },
+    {
+      "path": "资源/interactions/clues-user.mp4",
+      "sha256": "05e94e414b6c63961ebc7811ea956f0f89008d7e6f96ddd13f9d64601e3e250a"
+    },
+    {
+      "path": "资源/interactions/door-user.mp4",
+      "sha256": "415eb1197bb0a82cc3f1d5de6d9e2e4018b9663f86999e7aacd720bb5cadd1a5"
+    },
+    {
+      "path": "资源/interactions/key.mp4",
+      "sha256": "380d466e61485008727223ff177be29a34a09df79e54845804876057c6d6e2a0"
+    },
+    {
+      "path": "资源/interactions/lamp-two-lights.mp4",
+      "sha256": "84ef23578c43387bcf5ad1655d62d3f90b99de656983dd942554de30c2bc23e2"
+    },
+    {
+      "path": "资源/interactions/radio-user.mp4",
+      "sha256": "8043369dc85a1585fdbc261c7ff38f53cad9bdb469bcd6cdc20c8de8ae4dae59"
+    },
+    {
+      "path": "资源/interactions/television-user.mp4",
+      "sha256": "98b4903650cfd2c0a2556f6b90a50130de63a0f66066d0eba5576951a6e24f09"
+    },
+    {
+      "path": "资源/lighting.js",
+      "sha256": "3c57a9976e20d14c42e239a5eb251f2c2992624f9cfca74c09385a43857bd431"
+    },
+    {
+      "path": "资源/media/bathroom.webp",
+      "sha256": "9ee7bc552d77598f212da60f7a66c237acd20be2690a4b746a0b30e29e2a1a12"
+    },
+    {
+      "path": "资源/media/cover_user.png",
+      "sha256": "c6dfd916deecfd1b578c48c0b7e9cc4db3073b057d2dabaa858a9fe03f9da4db"
+    },
+    {
+      "path": "资源/media/game-wordmark.svg",
+      "sha256": "ac89874e7f095984e51ce191c34240e6369a6fd45c3396317f0d21691966b02a"
+    },
+    {
+      "path": "资源/media/hero.webp",
+      "sha256": "87b74f281a454a89d86f4e088e68b5410a5d4adb191e9b8e2965f593f0e1d43c"
+    },
+    {
+      "path": "资源/media/lighting/Bathroom-after.png",
+      "sha256": "64cf4cf3ea1e12c74a6ca77f466299615de212fedebf3672bc5d5fcd4959b2e7"
+    },
+    {
+      "path": "资源/media/lighting/Bathroom-before.png",
+      "sha256": "03f8c394590cebfc978e8550c429df700e23c2449245d692bfc55d71758d5d02"
+    },
+    {
+      "path": "资源/media/lighting/Bedside-after.png",
+      "sha256": "45a346e817e27b8b8c50d3d0f3d73fafeaf46d7c802f55a3c01bb02ca2c40e20"
+    },
+    {
+      "path": "资源/media/lighting/Bedside-before.png",
+      "sha256": "73a5767ffe9d5be6cef383894a4c6790537363a50aaa8466d0e6a453b92f3d15"
+    },
+    {
+      "path": "资源/media/lighting/DeskReverse-after.png",
+      "sha256": "373b5ea4d191828b5460438f4b9aa9bad74882fb9a2269c505fa738f84a71df2"
+    },
+    {
+      "path": "资源/media/lighting/DeskReverse-before.png",
+      "sha256": "dc35884f46ac1a20e4b00684935d7936f6faa1a4c9126a4d01b28e316344aa4d"
+    },
+    {
+      "path": "资源/media/lighting/Exterior-after.png",
+      "sha256": "13664348f2a6522cb88631bf8a52b4d9a495d3d7be2f81815109d8b1884554af"
+    },
+    {
+      "path": "资源/media/lighting/Exterior-before.png",
+      "sha256": "0620e54df4ed4e1d3cd38ef6e2503eda687e428d67032a39de6e265b6c9c34e9"
+    },
+    {
+      "path": "资源/media/lighting/Facade-after.png",
+      "sha256": "c737ce64517b7076dfd19bd52c8dc2ef0eaac89082e71a1367ada99d1171b849"
+    },
+    {
+      "path": "资源/media/lighting/Facade-before.png",
+      "sha256": "75bf3dbd1a3b2eecde38e6e5ecbc91f2be04d327a860f6a92db1cafe679ac888"
+    },
+    {
+      "path": "资源/media/lighting/Interior-after.png",
+      "sha256": "2c4ec59f8b5fdc26283ba46a336f3b0f18564016bf04771dd0ee011d651e0ca5"
+    },
+    {
+      "path": "资源/media/lighting/Interior-before.png",
+      "sha256": "2e8c3f0136f13a3c8c3cb7691a4c9cd1ac6213b0e6db05d0a74ae8f999d994cb"
+    },
+    {
+      "path": "资源/media/lighting/PoolReverse-after.png",
+      "sha256": "28b370749d9bdcc9efa5a6daa6286ed7e0976ae1514d9515c3f759c9a0593396"
+    },
+    {
+      "path": "资源/media/lighting/PoolReverse-before.png",
+      "sha256": "59bc13b046e4e97a22636e36ee908d91ed8e0d7cefd2266d6031a9a8629b7e1e"
+    },
+    {
+      "path": "资源/media/original-assets/asset_004.webp",
+      "sha256": "2a5b7e5bf7f1b62a29a2115e697419208f19c242cb514b4fddc0644044a3f0dc"
+    },
+    {
+      "path": "资源/media/original-assets/asset_005.webp",
+      "sha256": "5a5277d1e82348c7cb1e46ebc951251eea791c0a492cf1f4e9cf020e4eca3934"
+    },
+    {
+      "path": "资源/media/original-assets/asset_006.webp",
+      "sha256": "c8cea2209d17186b2dcebcd885265f1b9cda98ad4915698760a043771b7b3d2b"
+    },
+    {
+      "path": "资源/media/original-assets/asset_007.webp",
+      "sha256": "fe0138648b9485e83d01db5d404baf04ce87ddd43a2f8b20bcb5824fdd78be54"
+    },
+    {
+      "path": "资源/media/original-assets/asset_008.webp",
+      "sha256": "c0811dbef1093f22c38e1718132cf8ac4ed362f117832d75749c1893ec9fadbf"
+    },
+    {
+      "path": "资源/media/original-assets/asset_009.webp",
+      "sha256": "31ddd5038fc98904723d0e41e66df517e79d47dc51de485d46f152e9091594cf"
+    },
+    {
+      "path": "资源/media/original-assets/asset_010.webp",
+      "sha256": "6b9d2e609917cec06f14b6527749e50f500180e698023974ed864b27ccce6fbb"
+    },
+    {
+      "path": "资源/media/original-assets/asset_011.webp",
+      "sha256": "2bb27f6ccb64981c8a134b41fa790dbb47982b72d668cc333974a74df44d4e3b"
+    },
+    {
+      "path": "资源/media/original-assets/asset_012.webp",
+      "sha256": "cbe8fac7ee6ccd97549c713b027a9d38c5baaac8c534ecc9ee8203e6e6b1b88b"
+    },
+    {
+      "path": "资源/media/original-assets/asset_013.webp",
+      "sha256": "12ba05235f7c533aa15448954c10d1f77baa6814cdc2b310e56148286e18d509"
+    },
+    {
+      "path": "资源/media/original-assets/asset_014.webp",
+      "sha256": "66d57da9ec4fa037e5651f64f3ead5f54b5477aaf8d7730f75edf601ebaabe8d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_015.webp",
+      "sha256": "18ed9ab123d90604c02b921557bb6e28a4f0964dcff5907df245f8a92c1bfaa7"
+    },
+    {
+      "path": "资源/media/original-assets/asset_016.webp",
+      "sha256": "0d5871ceb28e9c48c1e9523a0b2ff13d7c857502f6d7db01ebdb2b710c328b9f"
+    },
+    {
+      "path": "资源/media/original-assets/asset_017.webp",
+      "sha256": "0ef069e8c602bf84cb3f1fbe227c53171e67aa499f7e61304d7372e794340048"
+    },
+    {
+      "path": "资源/media/original-assets/asset_018.webp",
+      "sha256": "f88b494447e24e909528d5118c8efbe247ed24b5b0e501f050252344c09a0caa"
+    },
+    {
+      "path": "资源/media/original-assets/asset_019.webp",
+      "sha256": "a4e9de9ce21022558babbfc51c2b24bc7aa537c1282c81d0f9c854b2c19c1521"
+    },
+    {
+      "path": "资源/media/original-assets/asset_020.webp",
+      "sha256": "bb8b0003fae2e3314023c6732867b7182bd2727fba3c978e54cd265d2a7034b2"
+    },
+    {
+      "path": "资源/media/original-assets/asset_021.webp",
+      "sha256": "aa1395877c479175b062f3c52f68c43c3e441a5cde952640ea320f01dbf6af3f"
+    },
+    {
+      "path": "资源/media/original-assets/asset_022.webp",
+      "sha256": "e5bfed1083d3ee2872679b00a509d6e6e505e7e37e8b60470cb7e2749b64e57c"
+    },
+    {
+      "path": "资源/media/original-assets/asset_023.webp",
+      "sha256": "68fb5e5a913c770c45c2b208b94dc2694e0e7072058cdfc6a0836fb552b31c01"
+    },
+    {
+      "path": "资源/media/original-assets/asset_024.webp",
+      "sha256": "22103833b3208606ee34e2b0e0b6a782689b22c43d21ac6707915a544ebbf6e4"
+    },
+    {
+      "path": "资源/media/original-assets/asset_025.webp",
+      "sha256": "97dac5a545bcc286c39aa99544ea9891f4e324e630241063e42626b254ebe937"
+    },
+    {
+      "path": "资源/media/original-assets/asset_026.webp",
+      "sha256": "ab2db2c8dc0a8b3ed29f180b04eb9e2bd3ae85c4595c3fb9bad25664b061c9e8"
+    },
+    {
+      "path": "资源/media/original-assets/asset_027.webp",
+      "sha256": "3d2a469b781153eeec4b4647ecacee4a8e9a9e5226e0e52e863608aaf7666b18"
+    },
+    {
+      "path": "资源/media/original-assets/asset_028.webp",
+      "sha256": "5867b30ad47eb13e4d980a602e529aa11fc06890e134bb36b5da51ed95968a1d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_029.webp",
+      "sha256": "9868eb879f31c9f7bd2070f85dc9257e404078c55133a703603c83903e4e8817"
+    },
+    {
+      "path": "资源/media/original-assets/asset_030.webp",
+      "sha256": "8b822b0470a4fb6688a912a082aae42be14a4ea965734b2358564e19e62e979a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_031.webp",
+      "sha256": "6d0a964119e9949bd9fa03ed7f9aa56e42d1e7391ae9b5d65db5b0dee38b7f28"
+    },
+    {
+      "path": "资源/media/original-assets/asset_032.webp",
+      "sha256": "7ce8c2b36f089b9010e3978437c4b20cc0c4ea4fe430ead23269fab6d338165b"
+    },
+    {
+      "path": "资源/media/original-assets/asset_033.webp",
+      "sha256": "6be6264c4d37dba132417ef09b7dfab9088b4dd200ed833b5792160d10025887"
+    },
+    {
+      "path": "资源/media/original-assets/asset_034.webp",
+      "sha256": "4faf47fb3445639b4567a13819bbaf3c0fd9b6e16bdefe5a15eeab01cebcb02d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_035.webp",
+      "sha256": "29ab1b50b97cf6440a580e46b2599101d851e23d38ff5d05aa1db0e5b61048de"
+    },
+    {
+      "path": "资源/media/original-assets/asset_036.webp",
+      "sha256": "48918b60f9e2fcb764f16c90aa2c8d74adf0a951495306ba432c0ee8d65489fe"
+    },
+    {
+      "path": "资源/media/original-assets/asset_037.webp",
+      "sha256": "5d02c129396117daad105fb4d9cf30130846a6435105afca0e107e48d8857036"
+    },
+    {
+      "path": "资源/media/original-assets/asset_038.webp",
+      "sha256": "ede70f15fac907fd0ad7f1854932d63a334ca1d341dcde23a04b3cb8b674fdf1"
+    },
+    {
+      "path": "资源/media/original-assets/asset_039.webp",
+      "sha256": "20910c128e4fdb0693c55eecf20f0a886b9cc46e14da26be2750161c1ac80023"
+    },
+    {
+      "path": "资源/media/original-assets/asset_040.webp",
+      "sha256": "918988153e292fba7b08906b2be0901a6cd2e695bb5f9b420d804bf3ba9e5ccd"
+    },
+    {
+      "path": "资源/media/original-assets/asset_041.webp",
+      "sha256": "4285b8411dd926ffb6938aa72e5076c8f8f4f0b7a9c0bf4037a218e4db98a838"
+    },
+    {
+      "path": "资源/media/original-assets/asset_042.webp",
+      "sha256": "d6a2afb39ed1681b3983abec2a71ec36a28aa541bbff0622d59a54f4180928e2"
+    },
+    {
+      "path": "资源/media/original-assets/asset_043.webp",
+      "sha256": "c8138841c05c6a0018811493023170b290bd6324cad18335298cd4e4642845cc"
+    },
+    {
+      "path": "资源/media/original-assets/asset_044.webp",
+      "sha256": "719b2b12cd9c3992a9d0b510a6d7c50c7ceef9762a0380b398e13eaacbc8bb8f"
+    },
+    {
+      "path": "资源/media/original-assets/asset_045.webp",
+      "sha256": "18ae7a82b174f8987483145918844f4ab97c7608bdda99e4c857f46d17132e64"
+    },
+    {
+      "path": "资源/media/original-assets/asset_046.webp",
+      "sha256": "fa91a3e51dcc76a2a7d4ab94c4134b832aa22cf0b40e0278e6e8a336aadf6fff"
+    },
+    {
+      "path": "资源/media/original-assets/asset_047.webp",
+      "sha256": "996d4aa7d5b3b754c57ec9f48fa82aba8559a655ae0af7feb8fa9f43212f1190"
+    },
+    {
+      "path": "资源/media/original-assets/asset_048.webp",
+      "sha256": "e82b68e261ea8550d382d951b0c6b7d09511def3c85d456e9ad539d64726db70"
+    },
+    {
+      "path": "资源/media/original-assets/asset_049.webp",
+      "sha256": "2b3963773aaef4e29d371ed288f8e9bf26458b249b1ca95e9f83f1c600dc27da"
+    },
+    {
+      "path": "资源/media/original-assets/asset_050.webp",
+      "sha256": "2fecdd86cead96849210d4e7a363ed648c17ed837e6af010b2ca3c8098a10b36"
+    },
+    {
+      "path": "资源/media/original-assets/asset_051.webp",
+      "sha256": "7a1212b9ddbb49ec8ea87a22b0aa43e0f50c90642bc0705e75a54cbae0e90bf1"
+    },
+    {
+      "path": "资源/media/original-assets/asset_052.webp",
+      "sha256": "cd9790848aa8e29009b9cda7f72df052e257395348119c02684d6eb494750188"
+    },
+    {
+      "path": "资源/media/original-assets/asset_053.webp",
+      "sha256": "1a03a16053dd9134cdaa8ef6370248f08d483e36d3dba6c68de6f6ec2127364c"
+    },
+    {
+      "path": "资源/media/original-assets/asset_054.webp",
+      "sha256": "40f1b80fb78d06084f54dc0f1c38cb78d12abe0bac34708deaf3728f3ed1425a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_055.webp",
+      "sha256": "6e6d3c5cfe5ccddb1b65888674ec76d5b1eb7ca76a79292c55956616a57d9018"
+    },
+    {
+      "path": "资源/media/original-assets/asset_056.webp",
+      "sha256": "088fb60e6f29410ec36c7c40057a40fd525d91ff72e32c09da304fae9d599373"
+    },
+    {
+      "path": "资源/media/original-assets/asset_057.webp",
+      "sha256": "072fcb9c8ffd890727157f976d48ac837cadf083e76cdcc18656834c8ba85183"
+    },
+    {
+      "path": "资源/media/original-assets/asset_058.webp",
+      "sha256": "12c85c766fb2664251d3e49c6857010ca0e09abeeab6fc042e0a52f287cc1b0e"
+    },
+    {
+      "path": "资源/media/original-assets/asset_059.webp",
+      "sha256": "d36bd082aded5bc59e26155a7cdf7bfba4356e13d73f94c46031bc9d927465a6"
+    },
+    {
+      "path": "资源/media/original-assets/asset_060.webp",
+      "sha256": "394b3bdb428173bbad21abf00aa814d170c26bb1ad2879afc19a0142fc7a5510"
+    },
+    {
+      "path": "资源/media/original-assets/asset_061.webp",
+      "sha256": "5e21d528fe17ae32f030c44ee379aeed0f10681770cadf0dd73613dd10b4fc3a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_062.webp",
+      "sha256": "acf190aa8d2df1ebbc1500ff94e29a8780fc800c8df4a87b487f6043c7502f97"
+    },
+    {
+      "path": "资源/media/original-assets/asset_063.webp",
+      "sha256": "4b79119b1027f8d61b914f1ebf8b68b32ed3ceb42eefae90c938a25ca903cfee"
+    },
+    {
+      "path": "资源/media/original-assets/asset_064.webp",
+      "sha256": "4120545a0f6555bb58641a0bf6ac5b61cb54fe1bac6262ecd766642c096f48d7"
+    },
+    {
+      "path": "资源/media/original-assets/asset_065.webp",
+      "sha256": "f220100988c77cd0493f9b19f6220b3f0980b24e7faa3ecdc73dbf12a70b804e"
+    },
+    {
+      "path": "资源/media/original-assets/asset_066.webp",
+      "sha256": "7c283bf0858753e794326bf7a5794e2cacd2dbc1bab6acd85aa62b36e4f9e3fa"
+    },
+    {
+      "path": "资源/media/original-assets/asset_067.webp",
+      "sha256": "45139f4c7e44150593e71f43e4879f74cc5ab4a3e2ff77a5e4a61f2cc0ffd388"
+    },
+    {
+      "path": "资源/media/original-assets/asset_068.webp",
+      "sha256": "6e3ea7e9e7cf4b96ead4e60bda21a2df10e7adf58475762c44514ecc274815b3"
+    },
+    {
+      "path": "资源/media/original-assets/asset_069.webp",
+      "sha256": "fa0fadd286707e80ea86c0d1b3051b8b93b393de52cff166f160ec8667faa819"
+    },
+    {
+      "path": "资源/media/original-assets/asset_070.webp",
+      "sha256": "ea8ffd02bdfa9c653cac4ab1d7cb95a4b04e1478d35ecf70bfb4696fdd2dd8a9"
+    },
+    {
+      "path": "资源/media/original-assets/asset_071.webp",
+      "sha256": "8d5021bb75ddfe46f094010b87e9b1df4a1c9384814426d45a0453c42e7105e8"
+    },
+    {
+      "path": "资源/media/original-assets/asset_072.webp",
+      "sha256": "448d97ed4a181da220d3d702ff5c473d5e5b8c800e35740eb56e523e49c39c05"
+    },
+    {
+      "path": "资源/media/original-assets/asset_073.webp",
+      "sha256": "7bd465edcb8f03b5af930db64480779077cb75ef3a7fcd6a33e18368c424c225"
+    },
+    {
+      "path": "资源/media/original-assets/asset_074.webp",
+      "sha256": "40987753616b959dc14b21e050d1e75c2ff6db173e3e4953b7181d32fda542da"
+    },
+    {
+      "path": "资源/media/original-assets/asset_075.webp",
+      "sha256": "aeb50ffa114e5ec63ad4ac596e091cd8e639764e6861857e60261a8a8bd38d9b"
+    },
+    {
+      "path": "资源/media/original-assets/asset_076.webp",
+      "sha256": "ef694f13760b0cb20e544410408ddfdacc554282049615bef81106c44b5769b4"
+    },
+    {
+      "path": "资源/media/original-assets/asset_077.webp",
+      "sha256": "bebfb915e82c576889a3593b7bb7acb56fd8228a48e192d9a24cc0d402d82536"
+    },
+    {
+      "path": "资源/media/original-assets/asset_078.webp",
+      "sha256": "54d70ab87e8845471077536de73e82c2d9c0a03c69738b4f021d99f500030bc4"
+    },
+    {
+      "path": "资源/media/original-assets/asset_079.webp",
+      "sha256": "1df269aa1e3de69dc80878ac42ed4de4bab7b91a5446b051e7150d2d67f23af4"
+    },
+    {
+      "path": "资源/media/original-assets/asset_080.webp",
+      "sha256": "64a7a914b15720e88175753860c3247eb3a13c552428be2a0a4eaf51467c0744"
+    },
+    {
+      "path": "资源/media/original-assets/asset_081.webp",
+      "sha256": "811a79f078afdeff595dd8a8f86acc0f8f7f4bc0263cdf24494f7d8d0527535d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_082.webp",
+      "sha256": "f056737f31fdf288893094954e1cd9995e1dfa47a11020baaed6dfca6d14294a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_083.webp",
+      "sha256": "6f58e2118d0b1a8e8e6fed282c3baeb70d877965de6ea258175ddfc6b6cdf547"
+    },
+    {
+      "path": "资源/media/original-assets/asset_084.webp",
+      "sha256": "2e17b13f8d04b6cb377a714a07814e8268e1df7bdb82816360c46478d3b98239"
+    },
+    {
+      "path": "资源/media/original-assets/asset_085.webp",
+      "sha256": "b0e6d1bc576c06f0ed7547ed50f979aba5277692013226eca10f649480837852"
+    },
+    {
+      "path": "资源/media/original-assets/asset_086.webp",
+      "sha256": "1b670d7eb46c0508490e224d3d25535514a1b0bd51c2996c7eec0932e2c14473"
+    },
+    {
+      "path": "资源/media/original-assets/asset_087.webp",
+      "sha256": "375f8c779af41b0d9c40467892bd2dc02be42a51f3211d34d49717f10c27f34b"
+    },
+    {
+      "path": "资源/media/original-assets/asset_088.webp",
+      "sha256": "cc9681f143b2bb041c5411d4b961f5703d129de03fbaf724fba37623465ea1fa"
+    },
+    {
+      "path": "资源/media/original-assets/asset_089.webp",
+      "sha256": "ecdfe8edd6de084f39997fd2a4a9145acc49217ab6dc805c92353d85e92675fb"
+    },
+    {
+      "path": "资源/media/original-assets/asset_090.webp",
+      "sha256": "ecf194862b9974de172340417815240c47848d1b4daf7f8045f65d53defd1b57"
+    },
+    {
+      "path": "资源/media/original-assets/asset_091.webp",
+      "sha256": "a609274d2c9091e1949e7eda1ce2d488477b80f1dacd4e771a9c042a7c18e741"
+    },
+    {
+      "path": "资源/media/original-assets/asset_092.webp",
+      "sha256": "5fc310de583c3ccecb4171ad05e9ef22a8630270d09e6f94a57c195af742e525"
+    },
+    {
+      "path": "资源/media/original-assets/asset_093.webp",
+      "sha256": "5c1c3fce54b7e3d7962613a67ab29ebe40c4f3bfba61beb405258967c73eed11"
+    },
+    {
+      "path": "资源/media/original-assets/asset_094.webp",
+      "sha256": "547dab973e586bac9bc7375bb04cd3f0a2109c80b21c700b1cc093e36f6c9104"
+    },
+    {
+      "path": "资源/media/original-assets/asset_095.webp",
+      "sha256": "01c2802f114fee5f3018b0478e8ae90f731b3206067ceddd652542ceac0914d2"
+    },
+    {
+      "path": "资源/media/original-assets/asset_096.webp",
+      "sha256": "b44e94f2c421c093d75899854f430e83e57d8df2d833005fe71259ff9f4d94ff"
+    },
+    {
+      "path": "资源/media/original-assets/asset_097.webp",
+      "sha256": "20eed91f41270004eacbbe04048ab7d5cd4c742b49d074a3d8e43ed08002aa17"
+    },
+    {
+      "path": "资源/media/original-assets/asset_098.webp",
+      "sha256": "d4712eabb124ee8a6411bcde242a97390734a8308457d21c2fa9e3ee613cf084"
+    },
+    {
+      "path": "资源/media/original-assets/asset_099.webp",
+      "sha256": "f83322ff7fcce9dc6aabd987ced5e0a49808c4b3062a4b3e711ea411c7198879"
+    },
+    {
+      "path": "资源/media/original-assets/asset_100.webp",
+      "sha256": "6b3049a855e9794005654e916b3a6c92c4b4198e90cc976e2ddda5f050be3bb7"
+    },
+    {
+      "path": "资源/media/original-assets/asset_101.webp",
+      "sha256": "d458ce7066161ce7073bb361acacc0d691b2902ac021a263d75e1edb203c8980"
+    },
+    {
+      "path": "资源/media/original-assets/asset_102.webp",
+      "sha256": "bb0e129e7d0680c18095a6cfb8629b5977ee3029bbad9f4afbb64cc9a313bf57"
+    },
+    {
+      "path": "资源/media/original-assets/asset_103.webp",
+      "sha256": "1088a260bb3340408b15438a4939f7567914a57111b8b49ff1d822caecf57182"
+    },
+    {
+      "path": "资源/media/original-assets/asset_104.webp",
+      "sha256": "4de1782e5d5da0dc3bb3ed2e5ed2332c139b8c8d8a4c76d04fe9e5292f6caa48"
+    },
+    {
+      "path": "资源/media/original-assets/asset_105.webp",
+      "sha256": "a30c0cb2439fa0f44ead54dbd6714c4e957a2a87d678972ac016ce3e5c0afe6f"
+    },
+    {
+      "path": "资源/media/original-assets/asset_106.webp",
+      "sha256": "bee721cf061c7aa6ab8c37bd46bad70e0544bd7aecdfbb312b75af0a616dc83d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_107.webp",
+      "sha256": "45cfd02a61f47cb3b4cd545859283cfe8624977fe07345016f11ffc7ff6ffb29"
+    },
+    {
+      "path": "资源/media/original-assets/asset_108.webp",
+      "sha256": "3fe224895065d2b2cfc8dc3ed9356b17b896d15c581bfc203197fe45e1b3b333"
+    },
+    {
+      "path": "资源/media/original-assets/asset_109.webp",
+      "sha256": "c14bebfc5dc9f0efd1f34c041ed234f624871a770469d43bbdc52d70d6f52d3a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_110.webp",
+      "sha256": "0415785683ecff39b6ba2813663d24c841c5273c14c764945b550927ce045038"
+    },
+    {
+      "path": "资源/media/original-assets/asset_111.webp",
+      "sha256": "419ed11993c0882c15e5a257e0694b5114d771e41965c448e77cdaf92470f716"
+    },
+    {
+      "path": "资源/media/original-assets/asset_112.webp",
+      "sha256": "4a3d8082cdeb8e0c5d7200574a372b26026dbcf313e8c58136b3406a58f7b545"
+    },
+    {
+      "path": "资源/media/original-assets/asset_113.webp",
+      "sha256": "79bd15428b3de53725051b993c0f5b67e5921ec13520f7aa768bf97c21412880"
+    },
+    {
+      "path": "资源/media/original-assets/asset_114.webp",
+      "sha256": "c1cf7f24655aa067498a36821a6d6b4605ecbdb1115b5c51bc06a6ec947ae97d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_115.webp",
+      "sha256": "1953debb230b28c9eb6720af104bc26230dd6a36479d89e1115b329b25152578"
+    },
+    {
+      "path": "资源/media/original-assets/asset_116.webp",
+      "sha256": "37751778d9cef6b1c978dcfaa630dcb46509b4e302f45685f67914378ac50e40"
+    },
+    {
+      "path": "资源/media/original-assets/asset_117.webp",
+      "sha256": "380f03fdb7995ba0ec52160f7a5ec439830beb2cf35f97c91d3002cb50f0dffb"
+    },
+    {
+      "path": "资源/media/original-assets/asset_118.webp",
+      "sha256": "f343a51fd7ded610a9dc9b7fc0d58ecbd9f36abb1b95f2ff8d5d65d486226388"
+    },
+    {
+      "path": "资源/media/original-assets/asset_119.webp",
+      "sha256": "9f5fdae13b92ab950c4229283ffe9e28b1f3128d9d444431de63394ff5c9b381"
+    },
+    {
+      "path": "资源/media/original-assets/asset_120.webp",
+      "sha256": "0bfd32282f795214dd705a820eaeb84585a833e928286663ea8a578bb68949d5"
+    },
+    {
+      "path": "资源/media/original-assets/asset_121.webp",
+      "sha256": "f8bbdf5b07e7b90bc115bc0c734df368b7caab2e4103141479be93a3219237c6"
+    },
+    {
+      "path": "资源/media/original-assets/asset_122.webp",
+      "sha256": "c9fb887d20283d9d7e32f4306a1038f0bb0ed9522bb859d187a9bb09d7a2d69f"
+    },
+    {
+      "path": "资源/media/original-assets/asset_123.webp",
+      "sha256": "3433ee204acfc843e1a7be61ecb4e2d08b2c59054ea6033806af3b19651f449d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_124.webp",
+      "sha256": "325d4bd5a17b1fc65fd6383503adbcd901e0eefb8e07460a9205ed96e3c6bfef"
+    },
+    {
+      "path": "资源/media/original-assets/asset_125.webp",
+      "sha256": "de72be617d926a4d6ecd825801f3f1752a8ea6198f965e21f978fd19b48b4ce5"
+    },
+    {
+      "path": "资源/media/original-assets/asset_126.webp",
+      "sha256": "780885c0ea7702f3636a070a34d9e9d5783000df65d577acd1a71f5b4c5ac0fe"
+    },
+    {
+      "path": "资源/media/original-assets/asset_127.webp",
+      "sha256": "fc2019f6bb6d537de2c957d3b5d1f3afe2a6e807471a61bfacbbfc24b8de5785"
+    },
+    {
+      "path": "资源/media/original-assets/asset_128.webp",
+      "sha256": "41b653ba7689a60adf97159db91a009fe3c232c3afa3f32230080dbef6862fba"
+    },
+    {
+      "path": "资源/media/original-assets/asset_129.webp",
+      "sha256": "1c955578052c4028efa135d8e241c3269b18559e79350a0e34da7f0897b047db"
+    },
+    {
+      "path": "资源/media/original-assets/asset_130.webp",
+      "sha256": "915d6f766b7d523e0686bd9a8f0e32d11b350f9de59ca36251125cffdeb8c9b6"
+    },
+    {
+      "path": "资源/media/original-assets/asset_131.webp",
+      "sha256": "43b02103ed01f2aa643530a971b2778deda646e3753f72216165b52b3be23711"
+    },
+    {
+      "path": "资源/media/original-assets/asset_132.webp",
+      "sha256": "e41cf88f7f8065eeab072bea2033e7c65c22817c0ac267a7a48dea942100331a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_133.webp",
+      "sha256": "64cab91c11c50b9f0d960815457f4bb26a7bdacef64e0201d41d801f85a84da0"
+    },
+    {
+      "path": "资源/media/original-assets/asset_134.webp",
+      "sha256": "9c4eb4733e135ed4a24dbfa63b1cac35dcc600523e3f39a7d015284474b45b8d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_135.webp",
+      "sha256": "dd1ce6d91c180e4e5e0a522c18025d267ed526f8d1f56e8766c8f3c323658daa"
+    },
+    {
+      "path": "资源/media/original-assets/asset_136.webp",
+      "sha256": "ad3463d731eecdddf508de7a1789ea97aa491b0273a811c5680d63c43510afeb"
+    },
+    {
+      "path": "资源/media/original-assets/asset_137.webp",
+      "sha256": "c237fa3e5ea623f0c96edf0f91a0a7a089acf15c3302b7fd952615d7ca443350"
+    },
+    {
+      "path": "资源/media/original-assets/asset_138.webp",
+      "sha256": "f1d5c4f6805b4e48d762e88bdee48e6674f5fe16702259514035182928649313"
+    },
+    {
+      "path": "资源/media/original-assets/asset_139.webp",
+      "sha256": "ecbab6ab3645177e3039fa9227ae7e7f5a0a5d12f817a9cac2635e69bfb943dc"
+    },
+    {
+      "path": "资源/media/original-assets/asset_140.webp",
+      "sha256": "e599c29cfeee9cf18aeefe9015b36dc787516347b9115eed3060e951e77e103a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_141.webp",
+      "sha256": "042bbc9166595c7a7d197deac5b1ba05e83a359d63b4489f959137576ce71fc7"
+    },
+    {
+      "path": "资源/media/original-assets/asset_142.webp",
+      "sha256": "ff17653207378b291b5af862ca6b6c8524e5e0b2d3bf309331da10ae2472b312"
+    },
+    {
+      "path": "资源/media/original-assets/asset_143.webp",
+      "sha256": "1a1205be741abdf62581a31929496b63fb432a095f245eb0650b5d7275a0ff43"
+    },
+    {
+      "path": "资源/media/original-assets/asset_144.webp",
+      "sha256": "3ba4691075c1ad2a57003fe9bc4fabf4663a074668a819a1ed22f135795d997c"
+    },
+    {
+      "path": "资源/media/original-assets/asset_145.webp",
+      "sha256": "fd725bb20e5d43a7331f40e3944e37378e7c3225bf4df95f169972ab5f86d888"
+    },
+    {
+      "path": "资源/media/original-assets/asset_146.webp",
+      "sha256": "0b43bfb295fa62ec0955e34821c9eabdfa0455c04717e09d78529b71e13bf5ac"
+    },
+    {
+      "path": "资源/media/original-assets/asset_147.webp",
+      "sha256": "0a0aef97d8eb9a36fe136c304a0a222ef93a9f81fd7f1968bb6fd77e183d3902"
+    },
+    {
+      "path": "资源/media/original-assets/asset_148.webp",
+      "sha256": "4d89cb836a8e961f5accb88ba0fd79623fbf581b2b4ed104554eb48783563f4c"
+    },
+    {
+      "path": "资源/media/original-assets/asset_149.webp",
+      "sha256": "287f962363a59ee1dbaeae760089bf97ef573776938ccde568780b615a06343b"
+    },
+    {
+      "path": "资源/media/original-assets/asset_150.webp",
+      "sha256": "c80d1e76ef4432d1fef97be2f52f5174fcff0a32a3d96fb64e4377950915dc42"
+    },
+    {
+      "path": "资源/media/original-assets/asset_151.webp",
+      "sha256": "acea54daf7a4769cfe1066a76dcade8a85036199469575a44f8566c76baee066"
+    },
+    {
+      "path": "资源/media/original-assets/asset_152.webp",
+      "sha256": "6a66b9c641d8dc974077b4fc12d1d9bbdc9f8e99121f2b4901ff80b3ab289964"
+    },
+    {
+      "path": "资源/media/original-assets/asset_153.webp",
+      "sha256": "c53104936f671ee51622b0e0fe8c03d20307ebffaf7f3ea9c8b48e2536be7ec0"
+    },
+    {
+      "path": "资源/media/original-assets/asset_154.webp",
+      "sha256": "cc8602ddcbe05eec026d93b5710d9e55546d39dd9224b38c8c3fe0bb566ba478"
+    },
+    {
+      "path": "资源/media/original-assets/asset_155.webp",
+      "sha256": "2a8a687fa47619cae1d5262c373d558f9931a917f94ec73f2469015d68a7ab07"
+    },
+    {
+      "path": "资源/media/original-assets/asset_156.webp",
+      "sha256": "727ba26ef2c6013d7ee8b2e9a6ebd4862645f8ced8c2064acd52ad913bf5b461"
+    },
+    {
+      "path": "资源/media/original-assets/asset_158.webp",
+      "sha256": "24c2c4916773175839c5a45f99cfeda03a12f07d2beed64d63d2504f089f9dc4"
+    },
+    {
+      "path": "资源/media/original-assets/asset_159.webp",
+      "sha256": "fd23bc703f993494fad921605e5225006a4591d043a3069b8fc529518d8e32f0"
+    },
+    {
+      "path": "资源/media/original-assets/asset_160.webp",
+      "sha256": "354a84c7176ed6969c1ae2668e89d6ac961519b7b864dda4a24dacc55c06a17a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_161.webp",
+      "sha256": "3d63da1fb8eb1a7b72558b8ef36c2b3c43307880e5c6cfb99c93bd03e0e19169"
+    },
+    {
+      "path": "资源/media/original-assets/asset_163.webp",
+      "sha256": "42550700a5ff231cd5c74cd4cb131ac68b7cdd048bc8af6eb30cbf162b939874"
+    },
+    {
+      "path": "资源/media/original-assets/asset_164.webp",
+      "sha256": "248c7d362f8569cec6c1e7f8a56ca4a8dbb7204d29a72f20086be9b9a9fbe829"
+    },
+    {
+      "path": "资源/media/original-assets/asset_165.webp",
+      "sha256": "9323cc472f104cf1ed1d099bcae80897e4ab8c554d2eed937ad26598b7d2449b"
+    },
+    {
+      "path": "资源/media/original-assets/asset_166.webp",
+      "sha256": "6b5b7b261ccb4126793e93fb90899d336e02e1bacad5766a2b590ed9f5be2e8a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_167.webp",
+      "sha256": "9870b50b0b690484265e579509893fe727d2fcdfd2b937f0add1d4412b8cb738"
+    },
+    {
+      "path": "资源/media/original-assets/asset_168.webp",
+      "sha256": "03b1c3b8a3d1667fb2527bf1afb023dbf3d581ed7df0343842c6435184a4d00c"
+    },
+    {
+      "path": "资源/media/original-assets/asset_169.webp",
+      "sha256": "29247bda99f8a63a74554dedb6e9298a0bce12f429307ae7d1ff502ab5a84f9d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_170.webp",
+      "sha256": "0670f4dd3cf5a460f2f386c5b6daa43a15cfb7d1072593641f69455771c0707d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_171.webp",
+      "sha256": "6392af55532162abf31e519c3f18ef92105c3288044fc1b2288bfc79e757acd5"
+    },
+    {
+      "path": "资源/media/original-assets/asset_172.webp",
+      "sha256": "b0500bc02274a26b4409537ab8951e055ec97396014ae06f2708828e0bc533ea"
+    },
+    {
+      "path": "资源/media/original-assets/asset_173.webp",
+      "sha256": "64297c54a33dee2f2a17e5bea86a926dc860ad02da05df098a4f35627ebb1296"
+    },
+    {
+      "path": "资源/media/original-assets/asset_174.webp",
+      "sha256": "2cb36f4512805df5154c53336fd8a2ce30422580a2b45d45e695a090e597e0a5"
+    },
+    {
+      "path": "资源/media/original-assets/asset_175.webp",
+      "sha256": "8ad2086b05028e6435615f2e4148a1f056de874838558120d30d3281570e9f2f"
+    },
+    {
+      "path": "资源/media/original-assets/asset_176.webp",
+      "sha256": "b1c44edad7ca73d12d247e0e0b8da84f9269c5d4a08bf3b9035219ec4ce170bb"
+    },
+    {
+      "path": "资源/media/original-assets/asset_177.webp",
+      "sha256": "af0292a53b60d65685c31f869463d4f3e66cd8430d477a8364d8ab2b97c75e8f"
+    },
+    {
+      "path": "资源/media/original-assets/asset_178.webp",
+      "sha256": "0de14e63eaa2a749ce8a5f4b0d0624547b0b2c715850a4fc24d04fe85af29e7f"
+    },
+    {
+      "path": "资源/media/original-assets/asset_179.webp",
+      "sha256": "87efa0bc86c5f5e7df1070935c768df4dd14754aee6dcb01268017eef643f21c"
+    },
+    {
+      "path": "资源/media/original-assets/asset_180.webp",
+      "sha256": "02c8fa05796f807c59b643a0044cde288186ff9cfb5c1f8d2e282e2698824dd9"
+    },
+    {
+      "path": "资源/media/original-assets/asset_181.webp",
+      "sha256": "4d546c2ad562a270216987db6c34fca2427b1a3c7907ddef9d7bf3fb0e3e45da"
+    },
+    {
+      "path": "资源/media/original-assets/asset_182.webp",
+      "sha256": "7ba06ace8fbe4bb940d407be7aa051d9cf9772e52b4a7d3bea08cc38eb922b75"
+    },
+    {
+      "path": "资源/media/original-assets/asset_183.webp",
+      "sha256": "527a9cf69d7da12ee2acd31a8a8ea8ed86a179ec8e4b44ecd6b0d562de55b70a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_184.webp",
+      "sha256": "a8d6800fb2498331ccfea7f24d47cf83695e6242677e4a81c0d37b5dcb8d30e5"
+    },
+    {
+      "path": "资源/media/original-assets/asset_185.webp",
+      "sha256": "af706780060de1101b5df427205ecac28064674d4e253a08f9b4ba3c06d7f557"
+    },
+    {
+      "path": "资源/media/original-assets/asset_186.webp",
+      "sha256": "0f63275dee19616186dcb86f6ef8186a6fc32aa1fa74d87fdbe4975dec09552a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_187.webp",
+      "sha256": "a69c938953a80534f47c8f81496191df01df1c73be93e5478de0db8db2bf4ae3"
+    },
+    {
+      "path": "资源/media/original-assets/asset_188.webp",
+      "sha256": "5773ab0ac0c7673ebff1bfc30f6d159e823817dfc100450436bede5e5b322655"
+    },
+    {
+      "path": "资源/media/original-assets/asset_189.webp",
+      "sha256": "86f0e32866ff5955d58fa23a1f82affc0ecb589f5b2b722bef6946600c74a671"
+    },
+    {
+      "path": "资源/media/original-assets/asset_197.webp",
+      "sha256": "58ebe79fefafef84edb7b74ccd18b41f45bb44bf989d51c1b1793b535ea5c8d9"
+    },
+    {
+      "path": "资源/media/original-assets/asset_198.webp",
+      "sha256": "267bec2a25ac5b731a8b98f1ac49dd3a331c6bcc72078e857cb1eca15c8ff077"
+    },
+    {
+      "path": "资源/media/original-assets/asset_199.webp",
+      "sha256": "a10b5bd817a521e9f037ac0616629fdd1038018ef88922def124151b45aa371e"
+    },
+    {
+      "path": "资源/media/original-assets/asset_200.webp",
+      "sha256": "424a7e0409f20dbaddcea5985619a436a0e3c9919a41a4efd8da50e10198915a"
+    },
+    {
+      "path": "资源/media/original-assets/asset_201.webp",
+      "sha256": "e14f57f290d0951ac6358920894b3e24166352c4fb0206820396bec9f630e8f4"
+    },
+    {
+      "path": "资源/media/original-assets/asset_202.webp",
+      "sha256": "31568312f73613dbb5ec623d9cfc50833963818d993feb7a293ea17ef11e81f8"
+    },
+    {
+      "path": "资源/media/original-assets/asset_203.webp",
+      "sha256": "ca7c863d5309c28ea86909b80654590cbf7daaab32bd2e0b4f40ece62c0f7fd6"
+    },
+    {
+      "path": "资源/media/original-assets/asset_204.webp",
+      "sha256": "8f78288d2c67bf11a302b3d4f39d2e95f57e03286044838dfed9e028789170fc"
+    },
+    {
+      "path": "资源/media/original-assets/asset_205.webp",
+      "sha256": "bb08f86adbeaf6fe41160019f8e22bec43dce332f1bdcc272ea77b7630b02cdb"
+    },
+    {
+      "path": "资源/media/original-assets/asset_206.webp",
+      "sha256": "5f30d52adc0fac6acf0d69d609cee3829c15d8db2f60a0fef1cc4cf2cd0ae037"
+    },
+    {
+      "path": "资源/media/original-assets/asset_207.webp",
+      "sha256": "8e1b9355b140aa728991b3989070d0b0564d0c40143eaacc753bb1f1299e3061"
+    },
+    {
+      "path": "资源/media/original-assets/asset_208.webp",
+      "sha256": "f14a641c573d5f6650082766ee4abc063c0ae3a6193a8be9ae4a88e504140623"
+    },
+    {
+      "path": "资源/media/original-assets/asset_209.webp",
+      "sha256": "9a013493e9d67318b443a9120def82803d9f0141e87f13f14c59eef21ffc78f5"
+    },
+    {
+      "path": "资源/media/original-assets/asset_210.webp",
+      "sha256": "bda74e8811d0b6b1fae10be0005cc24a8182a700dc0db2d952826d8b04c12f3e"
+    },
+    {
+      "path": "资源/media/original-assets/asset_211.webp",
+      "sha256": "da8b580075daccc758422f50431328096faac6d7053d20105915c97d813fb187"
+    },
+    {
+      "path": "资源/media/original-assets/asset_212.webp",
+      "sha256": "11b24bfcf05612a1948836d135408965f9142152fc787eaa73604cbd6dd6b390"
+    },
+    {
+      "path": "资源/media/original-assets/asset_213.webp",
+      "sha256": "946ec081d2a1c25f385c55eea12ea9e4899187930b9210ba8154c65f9055358d"
+    },
+    {
+      "path": "资源/media/original-assets/asset_215.webp",
+      "sha256": "26830719ad138b856a6c14552fb373f6fb07ab573d3a8e6f7e29e6a419db7802"
+    },
+    {
+      "path": "资源/media/original-assets/asset_216.webp",
+      "sha256": "28b7de9b8666103ca848439bcf457adb6b1df426bc975d9e7a965f10eba2da86"
+    },
+    {
+      "path": "资源/media/original-assets/asset_217.webp",
+      "sha256": "8bb20a2b2395c53e91ddc741ce9e378889f8ecf566ca7f8d3a30a6787f9a250e"
+    },
+    {
+      "path": "资源/media/original-assets/asset_218.webp",
+      "sha256": "03a11d77e8e5d0a3cec47ed656107b5423b72521fa4f3b0cdb1e71f39991e5dd"
+    },
+    {
+      "path": "资源/media/original-assets/asset_219.webp",
+      "sha256": "1c2e981519f4ae20e397b95ecde031658518bf02b55d8f2acaeb78b9dadc8927"
+    },
+    {
+      "path": "资源/media/original-assets/asset_220.webp",
+      "sha256": "db5712f7328347bf37c49ad723fb51fbf39cdb4bf74d8c1cd6477f235cc8dffe"
+    },
+    {
+      "path": "资源/media/original-assets/asset_221.webp",
+      "sha256": "e53252addd04a06ec6c20d95cb189cee9455c7c91308250b0d76ca6c195cdb34"
+    },
+    {
+      "path": "资源/media/original-assets/asset_222.webp",
+      "sha256": "5331ac911ff09522226c6d934a3af43c19eeb090270bc6cebdffeea355d4c020"
+    },
+    {
+      "path": "资源/media/original-assets/asset_223.webp",
+      "sha256": "82569c176adad3ffb02da5bcfcf8ff2d3597eb016d40725e3e9019d1b12a6414"
+    },
+    {
+      "path": "资源/media/original-assets/asset_224.webp",
+      "sha256": "791384bb788b1a7a6d35bd95dfc7228a7da1c7bbd24da280fbac74b607935bb6"
+    },
+    {
+      "path": "资源/media/original-assets/asset_225.webp",
+      "sha256": "a9cb34748b1ac784906d9f363e535874d404a6b7a99617de5e0bbb237baa9774"
+    },
+    {
+      "path": "资源/media/original-assets/asset_226.webp",
+      "sha256": "296cc0db32dbbed91fba9fc4aa13e7287c6fc46bc5ac5764c680579593a275c6"
+    },
+    {
+      "path": "资源/media/original-assets/asset_227.webp",
+      "sha256": "84a6b9e0190d04079eb65c50e18985a52cc59001e151f2faadc14ea575b72f94"
+    },
+    {
+      "path": "资源/media/pool.webp",
+      "sha256": "5635ff4af7ae8428bc1a92f1d17ceb702872f7b232f8d9cba5f2fec542380170"
+    },
+    {
+      "path": "资源/media/reference_exterior.webp",
+      "sha256": "e1e60bcfda080b5d5ae0f1a1f303076525785b9f50a6aec42ecd432067a08f1c"
+    },
+    {
+      "path": "资源/media/reference_room.webp",
+      "sha256": "c20750db8002ff53a7fb3dbc14079207899dc4a4e30476bb1cc11cac079e9e79"
+    },
+    {
+      "path": "资源/media/room.webp",
+      "sha256": "603199da8e5008956b3f8a3c833931002e11f16126dde774b589938b8effd3d5"
+    },
+    {
+      "path": "资源/media/scene-tour-first-frame.png",
+      "sha256": "7b4d5ab9b12f1580824d096cabdd736c9427c3d91c4ca1415c71588828a56e21"
+    },
+    {
+      "path": "资源/media/work_details.png",
+      "sha256": "3783a35af173628cbc41f4d3de90eac82e7875d67222c5e4f9441d68561f0035"
+    },
+    {
+      "path": "资源/media/work_layout.png",
+      "sha256": "9812b0fe214d87e347a70ff0b1d530e8e81ee8f86b46736cb17923dec287572b"
+    },
+    {
+      "path": "资源/navigation.js",
+      "sha256": "2d57f07f1c3d99bce54a5b33a00e79ebb63df6c3270eb74aa16a07de18ed74d3"
+    },
+    {
+      "path": "资源/scene-tour.mp4",
+      "sha256": "a0c9d8eeedc6eee0e2c4966c2fd8668fb353142af2b1558886ca3c8e81eb1459"
+    },
+    {
+      "path": "资源/style.css",
+      "sha256": "f79ca0a901d9b3ee5749cc0317aab496bd54405748d30e7f0aa364fb9613cf00"
+    }
+  ]
+}
